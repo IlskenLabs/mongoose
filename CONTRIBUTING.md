@@ -55,4 +55,4 @@ The [plugins](http://plugins.mongoosejs.com/) site is also an [open source proje
 
 ### Sharing your projects
 
-All are welcome to share their creations which use mongoose on our [tumbler](http://mongoosejs.tumblr.com/). Just fill out the [simple submission form](http://mongoosejs.tumblr.com/submit).
+All are welcome to share their creations which use mongoose on our [tumblr](http://mongoosejs.tumblr.com/). Just fill out the [simple submission form](http://mongoosejs.tumblr.com/submit).
